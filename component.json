@@ -1,0 +1,12 @@
+{
+    "name": "slick-carousel",
+    "description": "the last carousel you'll ever need",
+    "repos": "https://github.com/kenwheeler/slick.git",
+    "main": "slick/slick.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "jquery": ">=1.7.2"
+    },
+    "version": "1.5.8"
+}
